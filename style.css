@@ -1,0 +1,51 @@
+            body {
+                font-family: sans-serif, arial, helvetica;
+                background-color: #f47742;
+            }
+            
+            a {
+                text-decoration: none;
+                color: #ffd232;
+            }
+            
+            a:hover {
+                text-decoration: underline;
+            }
+            
+            a, h1 {
+                padding: 15px;
+            }
+            
+            p {
+                color: #840b00;
+            }
+            
+            header {
+                background-color: #7a7a7a;
+            }
+            
+            footer {
+                text-align: center;
+                background-color: #515151;
+                padding: 15px;
+            }
+            
+            button {
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                cursor: pointer;
+                background-color: #f44336;
+            }
+            
+            /*reset*/
+            
+            * {
+                margin: 0px;
+                padding: 0px;
+            }
